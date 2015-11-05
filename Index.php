@@ -4,7 +4,7 @@
 /**
  * Linux
  * Windows
- * @author gerardo Gonzalez
+ * @author Sebastian y Abner
  * 
  *  */
 /**
